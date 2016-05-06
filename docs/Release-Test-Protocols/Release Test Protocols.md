@@ -20,6 +20,9 @@
 ## 3.3.0
 * [Release Scorecard](https://docs.google.com/spreadsheets/d/1dkP-82icfrdQp3vqt8HqzeyGb_iwgrqg3OxJaqOuWiI/edit#gid=0)
 * [Quality Circles](https://docs.google.com/document/d/1B2E4QmJzYPdlwxO7o6H1xKDQg6dFdxhmBgtQMpYYCo4/edit)
-* [Gene Workflow](https://docs.google.com/document/d/1B2E4QmJzYPdlwxO7o6H1xKDQg6dFdxhmBgtQMpYYCo4/edit)
+* [Gene Workflow](https://docs.google.com/document/d/1_4hmSKsN6DPfBvwHJizKDoScrLferJ44t8p85VMMbNg/edit)
 
 ## 3.4.0
+* [Release Scorecard](https://docs.google.com/a/eng.ucsd.edu/spreadsheets/d/1ePHil068J-JZ0E3pgK2PsejO0XzPIBSH_8l5LRbFdNg/edit?usp=drivesdk#gid=0)
+* [Gene Workflow](https://docs.google.com/document/d/1_4hmSKsN6DPfBvwHJizKDoScrLferJ44t8p85VMMbNg/edit)
+* [Gang Su Workflow](http://healthsciences.ucsd.edu/som/medicine/research/labs/ideker/publications/Documents/nihms628460.pdf)
