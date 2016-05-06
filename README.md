@@ -1,8 +1,8 @@
 # Cytoscape Test Wiki
 
-## [Session Files](docs/Session Files.md)
-## [Feature Test Protocols](docs/Feature Test Protocols.md)
-## [Release Test Protocols](docs/Release Test Protocols.md)
+## [Session Files](docs/Session-Files/Session Files.md)
+## [Feature Test Protocols](docs/Feature-Test-Protocols/Feature Test Protocols.md)
+## [Release Test Protocols](docs/Release-Test-Protocols/Release Test Protocols.md)
 
 # Explanation
 This is a Wiki that serves as a repository for Cytoscape core and core app testing materials. 
