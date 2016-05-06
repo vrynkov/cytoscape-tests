@@ -1,7 +1,7 @@
 # Session Files 
 
 ## Donated by Individuals
-* [Anne Carnuvis](docs/Anne Carnuvis)
+* [Anne Carnuvis](Anne Carnuvis)
 * [Billur Engin](docs/Billur Engin)
 * [Brian Tsui](docs/Brian Tsui)
 * [Christos Vaitsis](docs/Christos Vaitsis)
