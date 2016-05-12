@@ -1,0 +1,2771 @@
+[ {
+  "numberVerification" : [ {
+    "longNumber" : 281474976710655
+  } ]
+}, {
+  "metaData" : [ {
+    "consistencyGroup" : 1,
+    "elementCount" : 35,
+    "idCounter" : 1318269,
+    "name" : "nodes",
+    "properties" : [ ],
+    "version" : "1.0"
+  }, {
+    "consistencyGroup" : 1,
+    "elementCount" : 61,
+    "idCounter" : 1318269,
+    "name" : "edges",
+    "properties" : [ ],
+    "version" : "1.0"
+  } ]
+}, {
+  "nodes" : [ {
+    "@id" : 1315349,
+    "n" : "Werner Syndrome"
+  }, {
+    "@id" : 1315348,
+    "n" : "Tourette Syndrome"
+  }, {
+    "@id" : 1315347,
+    "n" : "MAOA"
+  }, {
+    "@id" : 1315346,
+    "n" : "Suicide"
+  }, {
+    "@id" : 1315345,
+    "n" : "Schizophrenia"
+  }, {
+    "@id" : 1315344,
+    "n" : "Rett Syndrome"
+  }, {
+    "@id" : 1315343,
+    "n" : "Posttraumatic Stress Disorder"
+  }, {
+    "@id" : 1315342,
+    "n" : "Panic Disorder"
+  }, {
+    "@id" : 1315341,
+    "n" : "Pain"
+  }, {
+    "@id" : 1315340,
+    "n" : "Obsessive Compulsive Disorder"
+  }, {
+    "@id" : 1315339,
+    "n" : "Neurotoxicity Syndromes"
+  }, {
+    "@id" : 1315338,
+    "n" : "Migraine"
+  }, {
+    "@id" : 1315337,
+    "n" : "Major Depressive Disorder"
+  }, {
+    "@id" : 1315336,
+    "n" : "Lupus Vasculitis, Central Nervous System"
+  }, {
+    "@id" : 1315335,
+    "n" : "DRD4"
+  }, {
+    "@id" : 1315334,
+    "n" : "Impulse Control Disorders"
+  }, {
+    "@id" : 1315333,
+    "n" : "HTR2A"
+  }, {
+    "@id" : 1315332,
+    "n" : "Generalized Anxiety Disorder"
+  }, {
+    "@id" : 1315331,
+    "n" : "Dizziness"
+  }, {
+    "@id" : 1315330,
+    "n" : "Dissociative Disorders"
+  }, {
+    "@id" : 1315329,
+    "n" : "Deletion Q"
+  }, {
+    "@id" : 1315328,
+    "n" : "Breast Neoplasms"
+  }, {
+    "@id" : 1315327,
+    "n" : "Breast Cancer"
+  }, {
+    "@id" : 1315326,
+    "n" : "Brain Injuries"
+  }, {
+    "@id" : 1315325,
+    "n" : "TPH2"
+  }, {
+    "@id" : 1315324,
+    "n" : "Bipolar Disorder"
+  }, {
+    "@id" : 1315323,
+    "n" : "Autistic Disorder"
+  }, {
+    "@id" : 1315322,
+    "n" : "Autism"
+  }, {
+    "@id" : 1315321,
+    "n" : "BDNF"
+  }, {
+    "@id" : 1315320,
+    "n" : "COMT"
+  }, {
+    "@id" : 1315319,
+    "n" : "Anxiety"
+  }, {
+    "@id" : 1315318,
+    "n" : "SLC6A3"
+  }, {
+    "@id" : 1315317,
+    "n" : "SLC6A4"
+  }, {
+    "@id" : 1315316,
+    "n" : "DRD2"
+  }, {
+    "@id" : 1315315,
+    "n" : "Alcoholism"
+  } ]
+}, {
+  "edges" : [ {
+    "@id" : 1315410,
+    "s" : 1315349,
+    "t" : 1315320,
+    "i" : "pp"
+  }, {
+    "@id" : 1315409,
+    "s" : 1315348,
+    "t" : 1315321,
+    "i" : "pp"
+  }, {
+    "@id" : 1315408,
+    "s" : 1315348,
+    "t" : 1315317,
+    "i" : "pp"
+  }, {
+    "@id" : 1315407,
+    "s" : 1315346,
+    "t" : 1315325,
+    "i" : "pp"
+  }, {
+    "@id" : 1315406,
+    "s" : 1315346,
+    "t" : 1315347,
+    "i" : "pp"
+  }, {
+    "@id" : 1315405,
+    "s" : 1315346,
+    "t" : 1315321,
+    "i" : "pp"
+  }, {
+    "@id" : 1315404,
+    "s" : 1315346,
+    "t" : 1315333,
+    "i" : "pp"
+  }, {
+    "@id" : 1315403,
+    "s" : 1315346,
+    "t" : 1315320,
+    "i" : "pp"
+  }, {
+    "@id" : 1315402,
+    "s" : 1315346,
+    "t" : 1315317,
+    "i" : "pp"
+  }, {
+    "@id" : 1315401,
+    "s" : 1315345,
+    "t" : 1315317,
+    "i" : "pp"
+  }, {
+    "@id" : 1315400,
+    "s" : 1315345,
+    "t" : 1315333,
+    "i" : "pp"
+  }, {
+    "@id" : 1315399,
+    "s" : 1315345,
+    "t" : 1315321,
+    "i" : "pp"
+  }, {
+    "@id" : 1315398,
+    "s" : 1315345,
+    "t" : 1315316,
+    "i" : "pp"
+  }, {
+    "@id" : 1315397,
+    "s" : 1315345,
+    "t" : 1315320,
+    "i" : "pp"
+  }, {
+    "@id" : 1315396,
+    "s" : 1315344,
+    "t" : 1315321,
+    "i" : "pp"
+  }, {
+    "@id" : 1315395,
+    "s" : 1315343,
+    "t" : 1315318,
+    "i" : "pp"
+  }, {
+    "@id" : 1315394,
+    "s" : 1315343,
+    "t" : 1315320,
+    "i" : "pp"
+  }, {
+    "@id" : 1315393,
+    "s" : 1315343,
+    "t" : 1315317,
+    "i" : "pp"
+  }, {
+    "@id" : 1315392,
+    "s" : 1315343,
+    "t" : 1315316,
+    "i" : "pp"
+  }, {
+    "@id" : 1315391,
+    "s" : 1315342,
+    "t" : 1315317,
+    "i" : "pp"
+  }, {
+    "@id" : 1315390,
+    "s" : 1315342,
+    "t" : 1315320,
+    "i" : "pp"
+  }, {
+    "@id" : 1315389,
+    "s" : 1315341,
+    "t" : 1315320,
+    "i" : "pp"
+  }, {
+    "@id" : 1315388,
+    "s" : 1315340,
+    "t" : 1315333,
+    "i" : "pp"
+  }, {
+    "@id" : 1315387,
+    "s" : 1315340,
+    "t" : 1315321,
+    "i" : "pp"
+  }, {
+    "@id" : 1315386,
+    "s" : 1315340,
+    "t" : 1315320,
+    "i" : "pp"
+  }, {
+    "@id" : 1315385,
+    "s" : 1315340,
+    "t" : 1315317,
+    "i" : "pp"
+  }, {
+    "@id" : 1315384,
+    "s" : 1315339,
+    "t" : 1315318,
+    "i" : "pp"
+  }, {
+    "@id" : 1315383,
+    "s" : 1315339,
+    "t" : 1315333,
+    "i" : "pp"
+  }, {
+    "@id" : 1315382,
+    "s" : 1315339,
+    "t" : 1315320,
+    "i" : "pp"
+  }, {
+    "@id" : 1315381,
+    "s" : 1315339,
+    "t" : 1315316,
+    "i" : "pp"
+  }, {
+    "@id" : 1315380,
+    "s" : 1315338,
+    "t" : 1315317,
+    "i" : "pp"
+  }, {
+    "@id" : 1315379,
+    "s" : 1315337,
+    "t" : 1315333,
+    "i" : "pp"
+  }, {
+    "@id" : 1315378,
+    "s" : 1315337,
+    "t" : 1315320,
+    "i" : "pp"
+  }, {
+    "@id" : 1315377,
+    "s" : 1315337,
+    "t" : 1315321,
+    "i" : "pp"
+  }, {
+    "@id" : 1315376,
+    "s" : 1315337,
+    "t" : 1315317,
+    "i" : "pp"
+  }, {
+    "@id" : 1315375,
+    "s" : 1315336,
+    "t" : 1315321,
+    "i" : "pp"
+  }, {
+    "@id" : 1315374,
+    "s" : 1315334,
+    "t" : 1315318,
+    "i" : "pp"
+  }, {
+    "@id" : 1315373,
+    "s" : 1315334,
+    "t" : 1315320,
+    "i" : "pp"
+  }, {
+    "@id" : 1315372,
+    "s" : 1315334,
+    "t" : 1315316,
+    "i" : "pp"
+  }, {
+    "@id" : 1315371,
+    "s" : 1315334,
+    "t" : 1315335,
+    "i" : "pp"
+  }, {
+    "@id" : 1315370,
+    "s" : 1315334,
+    "t" : 1315317,
+    "i" : "pp"
+  }, {
+    "@id" : 1315369,
+    "s" : 1315332,
+    "t" : 1315320,
+    "i" : "pp"
+  }, {
+    "@id" : 1315368,
+    "s" : 1315332,
+    "t" : 1315333,
+    "i" : "pp"
+  }, {
+    "@id" : 1315367,
+    "s" : 1315332,
+    "t" : 1315317,
+    "i" : "pp"
+  }, {
+    "@id" : 1315366,
+    "s" : 1315331,
+    "t" : 1315320,
+    "i" : "pp"
+  }, {
+    "@id" : 1315365,
+    "s" : 1315330,
+    "t" : 1315317,
+    "i" : "pp"
+  }, {
+    "@id" : 1315364,
+    "s" : 1315329,
+    "t" : 1315317,
+    "i" : "pp"
+  }, {
+    "@id" : 1315363,
+    "s" : 1315328,
+    "t" : 1315320,
+    "i" : "pp"
+  }, {
+    "@id" : 1315362,
+    "s" : 1315327,
+    "t" : 1315320,
+    "i" : "pp"
+  }, {
+    "@id" : 1315361,
+    "s" : 1315326,
+    "t" : 1315321,
+    "i" : "pp"
+  }, {
+    "@id" : 1315360,
+    "s" : 1315324,
+    "t" : 1315325,
+    "i" : "pp"
+  }, {
+    "@id" : 1315359,
+    "s" : 1315324,
+    "t" : 1315321,
+    "i" : "pp"
+  }, {
+    "@id" : 1315358,
+    "s" : 1315324,
+    "t" : 1315317,
+    "i" : "pp"
+  }, {
+    "@id" : 1315357,
+    "s" : 1315323,
+    "t" : 1315317,
+    "i" : "pp"
+  }, {
+    "@id" : 1315356,
+    "s" : 1315322,
+    "t" : 1315317,
+    "i" : "pp"
+  }, {
+    "@id" : 1315355,
+    "s" : 1315319,
+    "t" : 1315321,
+    "i" : "pp"
+  }, {
+    "@id" : 1315354,
+    "s" : 1315319,
+    "t" : 1315320,
+    "i" : "pp"
+  }, {
+    "@id" : 1315353,
+    "s" : 1315319,
+    "t" : 1315317,
+    "i" : "pp"
+  }, {
+    "@id" : 1315352,
+    "s" : 1315315,
+    "t" : 1315318,
+    "i" : "pp"
+  }, {
+    "@id" : 1315351,
+    "s" : 1315315,
+    "t" : 1315317,
+    "i" : "pp"
+  }, {
+    "@id" : 1315350,
+    "s" : 1315315,
+    "t" : 1315316,
+    "i" : "pp"
+  } ]
+}, {
+  "cyTableColumn" : [ {
+    "s" : 1315305,
+    "applies_to" : "node_table",
+    "n" : "shared name"
+  }, {
+    "s" : 1315305,
+    "applies_to" : "node_table",
+    "n" : "name"
+  }, {
+    "s" : 1315305,
+    "applies_to" : "node_table",
+    "n" : "selected",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "applies_to" : "node_table",
+    "n" : "class"
+  }, {
+    "s" : 1315305,
+    "applies_to" : "edge_table",
+    "n" : "shared name"
+  }, {
+    "s" : 1315305,
+    "applies_to" : "edge_table",
+    "n" : "shared interaction"
+  }, {
+    "s" : 1315305,
+    "applies_to" : "edge_table",
+    "n" : "name"
+  }, {
+    "s" : 1315305,
+    "applies_to" : "edge_table",
+    "n" : "selected",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "applies_to" : "edge_table",
+    "n" : "interaction"
+  }, {
+    "s" : 1315305,
+    "applies_to" : "network_table",
+    "n" : "shared name"
+  }, {
+    "s" : 1315305,
+    "applies_to" : "network_table",
+    "n" : "name"
+  }, {
+    "s" : 1315305,
+    "applies_to" : "network_table",
+    "n" : "selected",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "applies_to" : "network_table",
+    "n" : "__Annotations",
+    "d" : "list_of_string"
+  } ]
+}, {
+  "networkAttributes" : [ {
+    "n" : "name",
+    "v" : "ADHD_similar_disorders.txt"
+  }, {
+    "s" : 1315305,
+    "n" : "name",
+    "v" : "ADHD_similar_disorders.txt"
+  }, {
+    "s" : 1315305,
+    "n" : "__Annotations",
+    "v" : [ "" ],
+    "d" : "list_of_string"
+  }, {
+    "s" : 1315305,
+    "n" : "selected",
+    "v" : "true",
+    "d" : "boolean"
+  } ]
+}, {
+  "hiddenAttributes" : [ {
+    "s" : 1315305,
+    "n" : "layoutAlgorithm",
+    "v" : "Hierarchical Layout"
+  } ]
+}, {
+  "nodeAttributes" : [ {
+    "s" : 1315305,
+    "po" : 1315349,
+    "n" : "name",
+    "v" : "Werner Syndrome"
+  }, {
+    "s" : 1315305,
+    "po" : 1315349,
+    "n" : "class",
+    "v" : "disorder"
+  }, {
+    "s" : 1315305,
+    "po" : 1315349,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315348,
+    "n" : "name",
+    "v" : "Tourette Syndrome"
+  }, {
+    "s" : 1315305,
+    "po" : 1315348,
+    "n" : "class",
+    "v" : "disorder"
+  }, {
+    "s" : 1315305,
+    "po" : 1315348,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315347,
+    "n" : "name",
+    "v" : "MAOA"
+  }, {
+    "s" : 1315305,
+    "po" : 1315347,
+    "n" : "class",
+    "v" : "gene"
+  }, {
+    "s" : 1315305,
+    "po" : 1315347,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315346,
+    "n" : "name",
+    "v" : "Suicide"
+  }, {
+    "s" : 1315305,
+    "po" : 1315346,
+    "n" : "class",
+    "v" : "disorder"
+  }, {
+    "s" : 1315305,
+    "po" : 1315346,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315345,
+    "n" : "name",
+    "v" : "Schizophrenia"
+  }, {
+    "s" : 1315305,
+    "po" : 1315345,
+    "n" : "class",
+    "v" : "disorder"
+  }, {
+    "s" : 1315305,
+    "po" : 1315345,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315344,
+    "n" : "name",
+    "v" : "Rett Syndrome"
+  }, {
+    "s" : 1315305,
+    "po" : 1315344,
+    "n" : "class",
+    "v" : "disorder"
+  }, {
+    "s" : 1315305,
+    "po" : 1315344,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315343,
+    "n" : "name",
+    "v" : "Posttraumatic Stress Disorder"
+  }, {
+    "s" : 1315305,
+    "po" : 1315343,
+    "n" : "class",
+    "v" : "disorder"
+  }, {
+    "s" : 1315305,
+    "po" : 1315343,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315342,
+    "n" : "name",
+    "v" : "Panic Disorder"
+  }, {
+    "s" : 1315305,
+    "po" : 1315342,
+    "n" : "class",
+    "v" : "disorder"
+  }, {
+    "s" : 1315305,
+    "po" : 1315342,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315341,
+    "n" : "name",
+    "v" : "Pain"
+  }, {
+    "s" : 1315305,
+    "po" : 1315341,
+    "n" : "class",
+    "v" : "disorder"
+  }, {
+    "s" : 1315305,
+    "po" : 1315341,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315340,
+    "n" : "name",
+    "v" : "Obsessive Compulsive Disorder"
+  }, {
+    "s" : 1315305,
+    "po" : 1315340,
+    "n" : "class",
+    "v" : "disorder"
+  }, {
+    "s" : 1315305,
+    "po" : 1315340,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315339,
+    "n" : "name",
+    "v" : "Neurotoxicity Syndromes"
+  }, {
+    "s" : 1315305,
+    "po" : 1315339,
+    "n" : "class",
+    "v" : "disorder"
+  }, {
+    "s" : 1315305,
+    "po" : 1315339,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315338,
+    "n" : "name",
+    "v" : "Migraine"
+  }, {
+    "s" : 1315305,
+    "po" : 1315338,
+    "n" : "class",
+    "v" : "disorder"
+  }, {
+    "s" : 1315305,
+    "po" : 1315338,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315337,
+    "n" : "name",
+    "v" : "Major Depressive Disorder"
+  }, {
+    "s" : 1315305,
+    "po" : 1315337,
+    "n" : "class",
+    "v" : "disorder"
+  }, {
+    "s" : 1315305,
+    "po" : 1315337,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315336,
+    "n" : "name",
+    "v" : "Lupus Vasculitis, Central Nervous System"
+  }, {
+    "s" : 1315305,
+    "po" : 1315336,
+    "n" : "class",
+    "v" : "disorder"
+  }, {
+    "s" : 1315305,
+    "po" : 1315336,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315335,
+    "n" : "name",
+    "v" : "DRD4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315335,
+    "n" : "class",
+    "v" : "gene"
+  }, {
+    "s" : 1315305,
+    "po" : 1315335,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315334,
+    "n" : "name",
+    "v" : "Impulse Control Disorders"
+  }, {
+    "s" : 1315305,
+    "po" : 1315334,
+    "n" : "class",
+    "v" : "disorder"
+  }, {
+    "s" : 1315305,
+    "po" : 1315334,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315333,
+    "n" : "name",
+    "v" : "HTR2A"
+  }, {
+    "s" : 1315305,
+    "po" : 1315333,
+    "n" : "class",
+    "v" : "gene"
+  }, {
+    "s" : 1315305,
+    "po" : 1315333,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315332,
+    "n" : "name",
+    "v" : "Generalized Anxiety Disorder"
+  }, {
+    "s" : 1315305,
+    "po" : 1315332,
+    "n" : "class",
+    "v" : "disorder"
+  }, {
+    "s" : 1315305,
+    "po" : 1315332,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315331,
+    "n" : "name",
+    "v" : "Dizziness"
+  }, {
+    "s" : 1315305,
+    "po" : 1315331,
+    "n" : "class",
+    "v" : "disorder"
+  }, {
+    "s" : 1315305,
+    "po" : 1315331,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315330,
+    "n" : "name",
+    "v" : "Dissociative Disorders"
+  }, {
+    "s" : 1315305,
+    "po" : 1315330,
+    "n" : "class",
+    "v" : "disorder"
+  }, {
+    "s" : 1315305,
+    "po" : 1315330,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315329,
+    "n" : "name",
+    "v" : "Deletion Q"
+  }, {
+    "s" : 1315305,
+    "po" : 1315329,
+    "n" : "class",
+    "v" : "disorder"
+  }, {
+    "s" : 1315305,
+    "po" : 1315329,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315328,
+    "n" : "name",
+    "v" : "Breast Neoplasms"
+  }, {
+    "s" : 1315305,
+    "po" : 1315328,
+    "n" : "class",
+    "v" : "disorder"
+  }, {
+    "s" : 1315305,
+    "po" : 1315328,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315327,
+    "n" : "name",
+    "v" : "Breast Cancer"
+  }, {
+    "s" : 1315305,
+    "po" : 1315327,
+    "n" : "class",
+    "v" : "disorder"
+  }, {
+    "s" : 1315305,
+    "po" : 1315327,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315326,
+    "n" : "name",
+    "v" : "Brain Injuries"
+  }, {
+    "s" : 1315305,
+    "po" : 1315326,
+    "n" : "class",
+    "v" : "disorder"
+  }, {
+    "s" : 1315305,
+    "po" : 1315326,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315325,
+    "n" : "name",
+    "v" : "TPH2"
+  }, {
+    "s" : 1315305,
+    "po" : 1315325,
+    "n" : "class",
+    "v" : "gene"
+  }, {
+    "s" : 1315305,
+    "po" : 1315325,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315324,
+    "n" : "name",
+    "v" : "Bipolar Disorder"
+  }, {
+    "s" : 1315305,
+    "po" : 1315324,
+    "n" : "class",
+    "v" : "disorder"
+  }, {
+    "s" : 1315305,
+    "po" : 1315324,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315323,
+    "n" : "name",
+    "v" : "Autistic Disorder"
+  }, {
+    "s" : 1315305,
+    "po" : 1315323,
+    "n" : "class",
+    "v" : "disorder"
+  }, {
+    "s" : 1315305,
+    "po" : 1315323,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315322,
+    "n" : "name",
+    "v" : "Autism"
+  }, {
+    "s" : 1315305,
+    "po" : 1315322,
+    "n" : "class",
+    "v" : "disorder"
+  }, {
+    "s" : 1315305,
+    "po" : 1315322,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315321,
+    "n" : "name",
+    "v" : "BDNF"
+  }, {
+    "s" : 1315305,
+    "po" : 1315321,
+    "n" : "class",
+    "v" : "gene"
+  }, {
+    "s" : 1315305,
+    "po" : 1315321,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315320,
+    "n" : "name",
+    "v" : "COMT"
+  }, {
+    "s" : 1315305,
+    "po" : 1315320,
+    "n" : "class",
+    "v" : "gene"
+  }, {
+    "s" : 1315305,
+    "po" : 1315320,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315319,
+    "n" : "name",
+    "v" : "Anxiety"
+  }, {
+    "s" : 1315305,
+    "po" : 1315319,
+    "n" : "class",
+    "v" : "disorder"
+  }, {
+    "s" : 1315305,
+    "po" : 1315319,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315318,
+    "n" : "name",
+    "v" : "SLC6A3"
+  }, {
+    "s" : 1315305,
+    "po" : 1315318,
+    "n" : "class",
+    "v" : "gene"
+  }, {
+    "s" : 1315305,
+    "po" : 1315318,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315317,
+    "n" : "name",
+    "v" : "SLC6A4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315317,
+    "n" : "class",
+    "v" : "gene"
+  }, {
+    "s" : 1315305,
+    "po" : 1315317,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315316,
+    "n" : "name",
+    "v" : "DRD2"
+  }, {
+    "s" : 1315305,
+    "po" : 1315316,
+    "n" : "class",
+    "v" : "gene"
+  }, {
+    "s" : 1315305,
+    "po" : 1315316,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315315,
+    "n" : "name",
+    "v" : "Alcoholism"
+  }, {
+    "s" : 1315305,
+    "po" : 1315315,
+    "n" : "class",
+    "v" : "disorder"
+  }, {
+    "s" : 1315305,
+    "po" : 1315315,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  } ]
+}, {
+  "edgeAttributes" : [ {
+    "s" : 1315305,
+    "po" : 1315410,
+    "n" : "shared name",
+    "v" : "Werner Syndrome (pp) COMT"
+  }, {
+    "s" : 1315305,
+    "po" : 1315410,
+    "n" : "name",
+    "v" : "Werner Syndrome (pp) COMT"
+  }, {
+    "s" : 1315305,
+    "po" : 1315410,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315410,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315409,
+    "n" : "shared name",
+    "v" : "Tourette Syndrome (pp) BDNF"
+  }, {
+    "s" : 1315305,
+    "po" : 1315409,
+    "n" : "name",
+    "v" : "Tourette Syndrome (pp) BDNF"
+  }, {
+    "s" : 1315305,
+    "po" : 1315409,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315409,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315408,
+    "n" : "shared name",
+    "v" : "Tourette Syndrome (pp) SLC6A4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315408,
+    "n" : "name",
+    "v" : "Tourette Syndrome (pp) SLC6A4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315408,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315408,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315407,
+    "n" : "shared name",
+    "v" : "Suicide (pp) TPH2"
+  }, {
+    "s" : 1315305,
+    "po" : 1315407,
+    "n" : "name",
+    "v" : "Suicide (pp) TPH2"
+  }, {
+    "s" : 1315305,
+    "po" : 1315407,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315407,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315406,
+    "n" : "shared name",
+    "v" : "Suicide (pp) MAOA"
+  }, {
+    "s" : 1315305,
+    "po" : 1315406,
+    "n" : "name",
+    "v" : "Suicide (pp) MAOA"
+  }, {
+    "s" : 1315305,
+    "po" : 1315406,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315406,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315405,
+    "n" : "shared name",
+    "v" : "Suicide (pp) BDNF"
+  }, {
+    "s" : 1315305,
+    "po" : 1315405,
+    "n" : "name",
+    "v" : "Suicide (pp) BDNF"
+  }, {
+    "s" : 1315305,
+    "po" : 1315405,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315405,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315404,
+    "n" : "shared name",
+    "v" : "Suicide (pp) HTR2A"
+  }, {
+    "s" : 1315305,
+    "po" : 1315404,
+    "n" : "name",
+    "v" : "Suicide (pp) HTR2A"
+  }, {
+    "s" : 1315305,
+    "po" : 1315404,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315404,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315403,
+    "n" : "shared name",
+    "v" : "Suicide (pp) COMT"
+  }, {
+    "s" : 1315305,
+    "po" : 1315403,
+    "n" : "name",
+    "v" : "Suicide (pp) COMT"
+  }, {
+    "s" : 1315305,
+    "po" : 1315403,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315403,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315402,
+    "n" : "shared name",
+    "v" : "Suicide (pp) SLC6A4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315402,
+    "n" : "name",
+    "v" : "Suicide (pp) SLC6A4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315402,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315402,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315401,
+    "n" : "shared name",
+    "v" : "Schizophrenia (pp) SLC6A4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315401,
+    "n" : "name",
+    "v" : "Schizophrenia (pp) SLC6A4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315401,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315401,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315400,
+    "n" : "shared name",
+    "v" : "Schizophrenia (pp) HTR2A"
+  }, {
+    "s" : 1315305,
+    "po" : 1315400,
+    "n" : "name",
+    "v" : "Schizophrenia (pp) HTR2A"
+  }, {
+    "s" : 1315305,
+    "po" : 1315400,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315400,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315399,
+    "n" : "shared name",
+    "v" : "Schizophrenia (pp) BDNF"
+  }, {
+    "s" : 1315305,
+    "po" : 1315399,
+    "n" : "name",
+    "v" : "Schizophrenia (pp) BDNF"
+  }, {
+    "s" : 1315305,
+    "po" : 1315399,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315399,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315398,
+    "n" : "shared name",
+    "v" : "Schizophrenia (pp) DRD2"
+  }, {
+    "s" : 1315305,
+    "po" : 1315398,
+    "n" : "name",
+    "v" : "Schizophrenia (pp) DRD2"
+  }, {
+    "s" : 1315305,
+    "po" : 1315398,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315398,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315397,
+    "n" : "shared name",
+    "v" : "Schizophrenia (pp) COMT"
+  }, {
+    "s" : 1315305,
+    "po" : 1315397,
+    "n" : "name",
+    "v" : "Schizophrenia (pp) COMT"
+  }, {
+    "s" : 1315305,
+    "po" : 1315397,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315397,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315396,
+    "n" : "shared name",
+    "v" : "Rett Syndrome (pp) BDNF"
+  }, {
+    "s" : 1315305,
+    "po" : 1315396,
+    "n" : "name",
+    "v" : "Rett Syndrome (pp) BDNF"
+  }, {
+    "s" : 1315305,
+    "po" : 1315396,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315396,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315395,
+    "n" : "shared name",
+    "v" : "Posttraumatic Stress Disorder (pp) SLC6A3"
+  }, {
+    "s" : 1315305,
+    "po" : 1315395,
+    "n" : "name",
+    "v" : "Posttraumatic Stress Disorder (pp) SLC6A3"
+  }, {
+    "s" : 1315305,
+    "po" : 1315395,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315395,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315394,
+    "n" : "shared name",
+    "v" : "Posttraumatic Stress Disorder (pp) COMT"
+  }, {
+    "s" : 1315305,
+    "po" : 1315394,
+    "n" : "name",
+    "v" : "Posttraumatic Stress Disorder (pp) COMT"
+  }, {
+    "s" : 1315305,
+    "po" : 1315394,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315394,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315393,
+    "n" : "shared name",
+    "v" : "Posttraumatic Stress Disorder (pp) SLC6A4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315393,
+    "n" : "name",
+    "v" : "Posttraumatic Stress Disorder (pp) SLC6A4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315393,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315393,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315392,
+    "n" : "shared name",
+    "v" : "Posttraumatic Stress Disorder (pp) DRD2"
+  }, {
+    "s" : 1315305,
+    "po" : 1315392,
+    "n" : "name",
+    "v" : "Posttraumatic Stress Disorder (pp) DRD2"
+  }, {
+    "s" : 1315305,
+    "po" : 1315392,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315392,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315391,
+    "n" : "shared name",
+    "v" : "Panic Disorder (pp) SLC6A4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315391,
+    "n" : "name",
+    "v" : "Panic Disorder (pp) SLC6A4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315391,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315391,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315390,
+    "n" : "shared name",
+    "v" : "Panic Disorder (pp) COMT"
+  }, {
+    "s" : 1315305,
+    "po" : 1315390,
+    "n" : "name",
+    "v" : "Panic Disorder (pp) COMT"
+  }, {
+    "s" : 1315305,
+    "po" : 1315390,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315390,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315389,
+    "n" : "shared name",
+    "v" : "Pain (pp) COMT"
+  }, {
+    "s" : 1315305,
+    "po" : 1315389,
+    "n" : "name",
+    "v" : "Pain (pp) COMT"
+  }, {
+    "s" : 1315305,
+    "po" : 1315389,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315389,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315388,
+    "n" : "shared name",
+    "v" : "Obsessive Compulsive Disorder (pp) HTR2A"
+  }, {
+    "s" : 1315305,
+    "po" : 1315388,
+    "n" : "name",
+    "v" : "Obsessive Compulsive Disorder (pp) HTR2A"
+  }, {
+    "s" : 1315305,
+    "po" : 1315388,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315388,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315387,
+    "n" : "shared name",
+    "v" : "Obsessive Compulsive Disorder (pp) BDNF"
+  }, {
+    "s" : 1315305,
+    "po" : 1315387,
+    "n" : "name",
+    "v" : "Obsessive Compulsive Disorder (pp) BDNF"
+  }, {
+    "s" : 1315305,
+    "po" : 1315387,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315387,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315386,
+    "n" : "shared name",
+    "v" : "Obsessive Compulsive Disorder (pp) COMT"
+  }, {
+    "s" : 1315305,
+    "po" : 1315386,
+    "n" : "name",
+    "v" : "Obsessive Compulsive Disorder (pp) COMT"
+  }, {
+    "s" : 1315305,
+    "po" : 1315386,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315386,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315385,
+    "n" : "shared name",
+    "v" : "Obsessive Compulsive Disorder (pp) SLC6A4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315385,
+    "n" : "name",
+    "v" : "Obsessive Compulsive Disorder (pp) SLC6A4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315385,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315385,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315384,
+    "n" : "shared name",
+    "v" : "Neurotoxicity Syndromes (pp) SLC6A3"
+  }, {
+    "s" : 1315305,
+    "po" : 1315384,
+    "n" : "name",
+    "v" : "Neurotoxicity Syndromes (pp) SLC6A3"
+  }, {
+    "s" : 1315305,
+    "po" : 1315384,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315384,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315383,
+    "n" : "shared name",
+    "v" : "Neurotoxicity Syndromes (pp) HTR2A"
+  }, {
+    "s" : 1315305,
+    "po" : 1315383,
+    "n" : "name",
+    "v" : "Neurotoxicity Syndromes (pp) HTR2A"
+  }, {
+    "s" : 1315305,
+    "po" : 1315383,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315383,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315382,
+    "n" : "shared name",
+    "v" : "Neurotoxicity Syndromes (pp) COMT"
+  }, {
+    "s" : 1315305,
+    "po" : 1315382,
+    "n" : "name",
+    "v" : "Neurotoxicity Syndromes (pp) COMT"
+  }, {
+    "s" : 1315305,
+    "po" : 1315382,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315382,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315381,
+    "n" : "shared name",
+    "v" : "Neurotoxicity Syndromes (pp) DRD2"
+  }, {
+    "s" : 1315305,
+    "po" : 1315381,
+    "n" : "name",
+    "v" : "Neurotoxicity Syndromes (pp) DRD2"
+  }, {
+    "s" : 1315305,
+    "po" : 1315381,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315381,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315380,
+    "n" : "shared name",
+    "v" : "Migraine (pp) SLC6A4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315380,
+    "n" : "name",
+    "v" : "Migraine (pp) SLC6A4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315380,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315380,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315379,
+    "n" : "shared name",
+    "v" : "Major Depressive Disorder (pp) HTR2A"
+  }, {
+    "s" : 1315305,
+    "po" : 1315379,
+    "n" : "name",
+    "v" : "Major Depressive Disorder (pp) HTR2A"
+  }, {
+    "s" : 1315305,
+    "po" : 1315379,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315379,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315378,
+    "n" : "shared name",
+    "v" : "Major Depressive Disorder (pp) COMT"
+  }, {
+    "s" : 1315305,
+    "po" : 1315378,
+    "n" : "name",
+    "v" : "Major Depressive Disorder (pp) COMT"
+  }, {
+    "s" : 1315305,
+    "po" : 1315378,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315378,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315377,
+    "n" : "shared name",
+    "v" : "Major Depressive Disorder (pp) BDNF"
+  }, {
+    "s" : 1315305,
+    "po" : 1315377,
+    "n" : "name",
+    "v" : "Major Depressive Disorder (pp) BDNF"
+  }, {
+    "s" : 1315305,
+    "po" : 1315377,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315377,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315376,
+    "n" : "shared name",
+    "v" : "Major Depressive Disorder (pp) SLC6A4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315376,
+    "n" : "name",
+    "v" : "Major Depressive Disorder (pp) SLC6A4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315376,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315376,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315375,
+    "n" : "shared name",
+    "v" : "Lupus Vasculitis, Central Nervous System (pp) BDNF"
+  }, {
+    "s" : 1315305,
+    "po" : 1315375,
+    "n" : "name",
+    "v" : "Lupus Vasculitis, Central Nervous System (pp) BDNF"
+  }, {
+    "s" : 1315305,
+    "po" : 1315375,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315375,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315374,
+    "n" : "shared name",
+    "v" : "Impulse Control Disorders (pp) SLC6A3"
+  }, {
+    "s" : 1315305,
+    "po" : 1315374,
+    "n" : "name",
+    "v" : "Impulse Control Disorders (pp) SLC6A3"
+  }, {
+    "s" : 1315305,
+    "po" : 1315374,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315374,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315373,
+    "n" : "shared name",
+    "v" : "Impulse Control Disorders (pp) COMT"
+  }, {
+    "s" : 1315305,
+    "po" : 1315373,
+    "n" : "name",
+    "v" : "Impulse Control Disorders (pp) COMT"
+  }, {
+    "s" : 1315305,
+    "po" : 1315373,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315373,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315372,
+    "n" : "shared name",
+    "v" : "Impulse Control Disorders (pp) DRD2"
+  }, {
+    "s" : 1315305,
+    "po" : 1315372,
+    "n" : "name",
+    "v" : "Impulse Control Disorders (pp) DRD2"
+  }, {
+    "s" : 1315305,
+    "po" : 1315372,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315372,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315371,
+    "n" : "shared name",
+    "v" : "Impulse Control Disorders (pp) DRD4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315371,
+    "n" : "name",
+    "v" : "Impulse Control Disorders (pp) DRD4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315371,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315371,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315370,
+    "n" : "shared name",
+    "v" : "Impulse Control Disorders (pp) SLC6A4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315370,
+    "n" : "name",
+    "v" : "Impulse Control Disorders (pp) SLC6A4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315370,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315370,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315369,
+    "n" : "shared name",
+    "v" : "Generalized Anxiety Disorder (pp) COMT"
+  }, {
+    "s" : 1315305,
+    "po" : 1315369,
+    "n" : "name",
+    "v" : "Generalized Anxiety Disorder (pp) COMT"
+  }, {
+    "s" : 1315305,
+    "po" : 1315369,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315369,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315368,
+    "n" : "shared name",
+    "v" : "Generalized Anxiety Disorder (pp) HTR2A"
+  }, {
+    "s" : 1315305,
+    "po" : 1315368,
+    "n" : "name",
+    "v" : "Generalized Anxiety Disorder (pp) HTR2A"
+  }, {
+    "s" : 1315305,
+    "po" : 1315368,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315368,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315367,
+    "n" : "shared name",
+    "v" : "Generalized Anxiety Disorder (pp) SLC6A4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315367,
+    "n" : "name",
+    "v" : "Generalized Anxiety Disorder (pp) SLC6A4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315367,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315367,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315366,
+    "n" : "shared name",
+    "v" : "Dizziness (pp) COMT"
+  }, {
+    "s" : 1315305,
+    "po" : 1315366,
+    "n" : "name",
+    "v" : "Dizziness (pp) COMT"
+  }, {
+    "s" : 1315305,
+    "po" : 1315366,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315366,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315365,
+    "n" : "shared name",
+    "v" : "Dissociative Disorders (pp) SLC6A4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315365,
+    "n" : "name",
+    "v" : "Dissociative Disorders (pp) SLC6A4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315365,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315365,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315364,
+    "n" : "shared name",
+    "v" : "Deletion Q (pp) SLC6A4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315364,
+    "n" : "name",
+    "v" : "Deletion Q (pp) SLC6A4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315364,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315364,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315363,
+    "n" : "shared name",
+    "v" : "Breast Neoplasms (pp) COMT"
+  }, {
+    "s" : 1315305,
+    "po" : 1315363,
+    "n" : "name",
+    "v" : "Breast Neoplasms (pp) COMT"
+  }, {
+    "s" : 1315305,
+    "po" : 1315363,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315363,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315362,
+    "n" : "shared name",
+    "v" : "Breast Cancer (pp) COMT"
+  }, {
+    "s" : 1315305,
+    "po" : 1315362,
+    "n" : "name",
+    "v" : "Breast Cancer (pp) COMT"
+  }, {
+    "s" : 1315305,
+    "po" : 1315362,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315362,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315361,
+    "n" : "shared name",
+    "v" : "Brain Injuries (pp) BDNF"
+  }, {
+    "s" : 1315305,
+    "po" : 1315361,
+    "n" : "name",
+    "v" : "Brain Injuries (pp) BDNF"
+  }, {
+    "s" : 1315305,
+    "po" : 1315361,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315361,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315360,
+    "n" : "shared name",
+    "v" : "Bipolar Disorder (pp) TPH2"
+  }, {
+    "s" : 1315305,
+    "po" : 1315360,
+    "n" : "name",
+    "v" : "Bipolar Disorder (pp) TPH2"
+  }, {
+    "s" : 1315305,
+    "po" : 1315360,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315360,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315359,
+    "n" : "shared name",
+    "v" : "Bipolar Disorder (pp) BDNF"
+  }, {
+    "s" : 1315305,
+    "po" : 1315359,
+    "n" : "name",
+    "v" : "Bipolar Disorder (pp) BDNF"
+  }, {
+    "s" : 1315305,
+    "po" : 1315359,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315359,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315358,
+    "n" : "shared name",
+    "v" : "Bipolar Disorder (pp) SLC6A4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315358,
+    "n" : "name",
+    "v" : "Bipolar Disorder (pp) SLC6A4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315358,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315358,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315357,
+    "n" : "shared name",
+    "v" : "Autistic Disorder (pp) SLC6A4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315357,
+    "n" : "name",
+    "v" : "Autistic Disorder (pp) SLC6A4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315357,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315357,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315356,
+    "n" : "shared name",
+    "v" : "Autism (pp) SLC6A4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315356,
+    "n" : "name",
+    "v" : "Autism (pp) SLC6A4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315356,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315356,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315355,
+    "n" : "shared name",
+    "v" : "Anxiety (pp) BDNF"
+  }, {
+    "s" : 1315305,
+    "po" : 1315355,
+    "n" : "name",
+    "v" : "Anxiety (pp) BDNF"
+  }, {
+    "s" : 1315305,
+    "po" : 1315355,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315355,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315354,
+    "n" : "shared name",
+    "v" : "Anxiety (pp) COMT"
+  }, {
+    "s" : 1315305,
+    "po" : 1315354,
+    "n" : "name",
+    "v" : "Anxiety (pp) COMT"
+  }, {
+    "s" : 1315305,
+    "po" : 1315354,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315354,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315353,
+    "n" : "shared name",
+    "v" : "Anxiety (pp) SLC6A4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315353,
+    "n" : "name",
+    "v" : "Anxiety (pp) SLC6A4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315353,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315353,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315352,
+    "n" : "shared name",
+    "v" : "Alcoholism (pp) SLC6A3"
+  }, {
+    "s" : 1315305,
+    "po" : 1315352,
+    "n" : "name",
+    "v" : "Alcoholism (pp) SLC6A3"
+  }, {
+    "s" : 1315305,
+    "po" : 1315352,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315352,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315351,
+    "n" : "shared name",
+    "v" : "Alcoholism (pp) SLC6A4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315351,
+    "n" : "name",
+    "v" : "Alcoholism (pp) SLC6A4"
+  }, {
+    "s" : 1315305,
+    "po" : 1315351,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315351,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  }, {
+    "s" : 1315305,
+    "po" : 1315350,
+    "n" : "shared name",
+    "v" : "Alcoholism (pp) DRD2"
+  }, {
+    "s" : 1315305,
+    "po" : 1315350,
+    "n" : "name",
+    "v" : "Alcoholism (pp) DRD2"
+  }, {
+    "s" : 1315305,
+    "po" : 1315350,
+    "n" : "interaction",
+    "v" : "pp"
+  }, {
+    "s" : 1315305,
+    "po" : 1315350,
+    "n" : "selected",
+    "v" : "false",
+    "d" : "boolean"
+  } ]
+}, {
+  "cartesianLayout" : [ {
+    "node" : 1315349,
+    "view" : 1318171,
+    "x" : 485.5623779296875,
+    "y" : 231.7686767578125
+  }, {
+    "node" : 1315348,
+    "view" : 1318171,
+    "x" : 947.1210538758364,
+    "y" : 15.238037109375
+  }, {
+    "node" : 1315347,
+    "view" : 1318171,
+    "x" : 933.564788784325,
+    "y" : -104.04584503173828
+  }, {
+    "node" : 1315346,
+    "view" : 1318171,
+    "x" : 1010.0562743800281,
+    "y" : -57.40596008300781
+  }, {
+    "node" : 1315345,
+    "view" : 1318171,
+    "x" : 380.0049743652344,
+    "y" : -11.968852996826172
+  }, {
+    "node" : 1315344,
+    "view" : 1318171,
+    "x" : 924.21728515625,
+    "y" : 157.34364909068017
+  }, {
+    "node" : 1315343,
+    "view" : 1318171,
+    "x" : 294.6795959472656,
+    "y" : -60.60173034667969
+  }, {
+    "node" : 1315342,
+    "view" : 1318171,
+    "x" : 601.287841796875,
+    "y" : 166.0433393132548
+  }, {
+    "node" : 1315341,
+    "view" : 1318171,
+    "x" : 313.236328125,
+    "y" : 169.50265502929688
+  }, {
+    "node" : 1315340,
+    "view" : 1318171,
+    "x" : 692.3218994140625,
+    "y" : -57.07737731933594
+  }, {
+    "node" : 1315339,
+    "view" : 1318171,
+    "x" : 130.68331909179688,
+    "y" : -81.35713195800781
+  }, {
+    "node" : 1315338,
+    "view" : 1318171,
+    "x" : 739.9857177394032,
+    "y" : 234.32566836899528
+  }, {
+    "node" : 1315337,
+    "view" : 1318171,
+    "x" : 635.2373046875,
+    "y" : -121.2023768233274
+  }, {
+    "node" : 1315336,
+    "view" : 1318171,
+    "x" : 1022.5075590027895,
+    "y" : 270.96484375
+  }, {
+    "node" : 1315335,
+    "view" : 1318171,
+    "x" : 91.11410522460938,
+    "y" : 67.01754760742188
+  }, {
+    "node" : 1315334,
+    "view" : 1318171,
+    "x" : 111.68962097167969,
+    "y" : -19.891334533691406
+  }, {
+    "node" : 1315333,
+    "view" : 1318171,
+    "x" : 579.125,
+    "y" : 90.0
+  }, {
+    "node" : 1315332,
+    "view" : 1318171,
+    "x" : 505.8411865234375,
+    "y" : -41.51084572194618
+  }, {
+    "node" : 1315331,
+    "view" : 1318171,
+    "x" : 416.53662109375,
+    "y" : 181.60992431640625
+  }, {
+    "node" : 1315330,
+    "view" : 1318171,
+    "x" : 698.4388427734375,
+    "y" : 285.63626102036244
+  }, {
+    "node" : 1315329,
+    "view" : 1318171,
+    "x" : 769.9991454737782,
+    "y" : 183.21682739257812
+  }, {
+    "node" : 1315328,
+    "view" : 1318171,
+    "x" : 235.24459838867188,
+    "y" : 160.85452270507812
+  }, {
+    "node" : 1315327,
+    "view" : 1318171,
+    "x" : 352.6995849609375,
+    "y" : 221.39111328125
+  }, {
+    "node" : 1315326,
+    "view" : 1318171,
+    "x" : 964.3833219422427,
+    "y" : 220.8056640625
+  }, {
+    "node" : 1315325,
+    "view" : 1318171,
+    "x" : 1063.809448208153,
+    "y" : 113.88613891601562
+  }, {
+    "node" : 1315324,
+    "view" : 1318171,
+    "x" : 1091.5329801453677,
+    "y" : 16.96765899658203
+  }, {
+    "node" : 1315323,
+    "view" : 1318171,
+    "x" : 667.6018066065907,
+    "y" : 211.71389770507812
+  }, {
+    "node" : 1315322,
+    "view" : 1318171,
+    "x" : 832.5361938136219,
+    "y" : 195.77928161621094
+  }, {
+    "node" : 1315321,
+    "view" : 1318171,
+    "x" : 970.0455321925281,
+    "y" : 110.42689514160156
+  }, {
+    "node" : 1315320,
+    "view" : 1318171,
+    "x" : 406.0,
+    "y" : 90.0
+  }, {
+    "node" : 1315319,
+    "view" : 1318171,
+    "x" : 830.5323486328125,
+    "y" : -48.4292864191671
+  }, {
+    "node" : 1315318,
+    "view" : 1318171,
+    "x" : 170.173828125,
+    "y" : 53.61297607421875
+  }, {
+    "node" : 1315317,
+    "view" : 1318171,
+    "x" : 706.0,
+    "y" : 90.0
+  }, {
+    "node" : 1315316,
+    "view" : 1318171,
+    "x" : 260.2458801269531,
+    "y" : 48.42413330078125
+  }, {
+    "node" : 1315315,
+    "view" : 1318171,
+    "x" : 211.81646728515625,
+    "y" : -114.21989440917969
+  } ]
+}, {
+  "visualProperties" : [ {
+    "properties_of" : "network",
+    "applies_to" : 1318171,
+    "view" : 1318171,
+    "properties" : {
+      "NETWORK_BACKGROUND_PAINT" : "#FFFFFF",
+      "NETWORK_CENTER_X_LOCATION" : "0.0",
+      "NETWORK_CENTER_Y_LOCATION" : "0.0",
+      "NETWORK_CENTER_Z_LOCATION" : "0.0",
+      "NETWORK_DEPTH" : "0.0",
+      "NETWORK_EDGE_SELECTION" : "true",
+      "NETWORK_HEIGHT" : "400.0",
+      "NETWORK_NODE_SELECTION" : "true",
+      "NETWORK_SCALE_FACTOR" : "1.0",
+      "NETWORK_SIZE" : "550.0",
+      "NETWORK_WIDTH" : "550.0"
+    }
+  }, {
+    "properties_of" : "nodes:default",
+    "applies_to" : 1318171,
+    "view" : 1318171,
+    "properties" : {
+      "COMPOUND_NODE_PADDING" : "10.0",
+      "COMPOUND_NODE_SHAPE" : "ROUND_RECTANGLE",
+      "NODE_BORDER_PAINT" : "#333333",
+      "NODE_BORDER_STROKE" : "SOLID",
+      "NODE_BORDER_TRANSPARENCY" : "255",
+      "NODE_BORDER_WIDTH" : "3.0",
+      "NODE_CUSTOMGRAPHICS_1" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+      "NODE_CUSTOMGRAPHICS_2" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+      "NODE_CUSTOMGRAPHICS_3" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+      "NODE_CUSTOMGRAPHICS_4" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+      "NODE_CUSTOMGRAPHICS_5" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+      "NODE_CUSTOMGRAPHICS_6" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+      "NODE_CUSTOMGRAPHICS_7" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+      "NODE_CUSTOMGRAPHICS_8" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+      "NODE_CUSTOMGRAPHICS_9" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+      "NODE_CUSTOMGRAPHICS_POSITION_1" : "C,C,c,0.00,0.00",
+      "NODE_CUSTOMGRAPHICS_POSITION_2" : "C,C,c,0.00,0.00",
+      "NODE_CUSTOMGRAPHICS_POSITION_3" : "C,C,c,0.00,0.00",
+      "NODE_CUSTOMGRAPHICS_POSITION_4" : "C,C,c,0.00,0.00",
+      "NODE_CUSTOMGRAPHICS_POSITION_5" : "C,C,c,0.00,0.00",
+      "NODE_CUSTOMGRAPHICS_POSITION_6" : "C,C,c,0.00,0.00",
+      "NODE_CUSTOMGRAPHICS_POSITION_7" : "C,C,c,0.00,0.00",
+      "NODE_CUSTOMGRAPHICS_POSITION_8" : "C,C,c,0.00,0.00",
+      "NODE_CUSTOMGRAPHICS_POSITION_9" : "C,C,c,0.00,0.00",
+      "NODE_CUSTOMGRAPHICS_SIZE_1" : "50.0",
+      "NODE_CUSTOMGRAPHICS_SIZE_2" : "50.0",
+      "NODE_CUSTOMGRAPHICS_SIZE_3" : "50.0",
+      "NODE_CUSTOMGRAPHICS_SIZE_4" : "50.0",
+      "NODE_CUSTOMGRAPHICS_SIZE_5" : "50.0",
+      "NODE_CUSTOMGRAPHICS_SIZE_6" : "50.0",
+      "NODE_CUSTOMGRAPHICS_SIZE_7" : "50.0",
+      "NODE_CUSTOMGRAPHICS_SIZE_8" : "50.0",
+      "NODE_CUSTOMGRAPHICS_SIZE_9" : "50.0",
+      "NODE_CUSTOMPAINT_1" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_1, name=Node Custom Paint 1)",
+      "NODE_CUSTOMPAINT_2" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_2, name=Node Custom Paint 2)",
+      "NODE_CUSTOMPAINT_3" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_3, name=Node Custom Paint 3)",
+      "NODE_CUSTOMPAINT_4" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_4, name=Node Custom Paint 4)",
+      "NODE_CUSTOMPAINT_5" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_5, name=Node Custom Paint 5)",
+      "NODE_CUSTOMPAINT_6" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_6, name=Node Custom Paint 6)",
+      "NODE_CUSTOMPAINT_7" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_7, name=Node Custom Paint 7)",
+      "NODE_CUSTOMPAINT_8" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_8, name=Node Custom Paint 8)",
+      "NODE_CUSTOMPAINT_9" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_9, name=Node Custom Paint 9)",
+      "NODE_DEPTH" : "0.0",
+      "NODE_FILL_COLOR" : "#00ACAD",
+      "NODE_HEIGHT" : "40.0",
+      "NODE_LABEL_COLOR" : "#000000",
+      "NODE_LABEL_FONT_FACE" : "Dialog,plain,12",
+      "NODE_LABEL_FONT_SIZE" : "12",
+      "NODE_LABEL_POSITION" : "C,C,c,0.00,0.00",
+      "NODE_LABEL_TRANSPARENCY" : "255",
+      "NODE_LABEL_WIDTH" : "200.0",
+      "NODE_NESTED_NETWORK_IMAGE_VISIBLE" : "true",
+      "NODE_PAINT" : "#1E90FF",
+      "NODE_SELECTED" : "false",
+      "NODE_SELECTED_PAINT" : "#FFFF00",
+      "NODE_SHAPE" : "ROUND_RECTANGLE",
+      "NODE_SIZE" : "35.0",
+      "NODE_TRANSPARENCY" : "255",
+      "NODE_VISIBLE" : "true",
+      "NODE_WIDTH" : "70.0",
+      "NODE_X_LOCATION" : "0.0",
+      "NODE_Y_LOCATION" : "0.0",
+      "NODE_Z_LOCATION" : "0.0"
+    },
+    "dependencies" : {
+      "nodeCustomGraphicsSizeSync" : "true",
+      "nodeSizeLocked" : "true"
+    },
+    "mappings" : {
+      "NODE_FILL_COLOR" : {
+        "type" : "DISCRETE",
+        "definition" : "COL=class,T=string,K=0=disorder,V=0=#FFCC00,K=1=gene,V=1=#00FFCC,K=2=drug,V=2=#9999FF"
+      },
+      "NODE_LABEL" : {
+        "type" : "PASSTHROUGH",
+        "definition" : "COL=name,T=string"
+      },
+      "NODE_SHAPE" : {
+        "type" : "DISCRETE",
+        "definition" : "COL=class,T=string,K=0=disorder,V=0=PARALLELOGRAM,K=1=gene,V=1=ELLIPSE"
+      },
+      "NODE_SIZE" : {
+        "type" : "DISCRETE",
+        "definition" : "COL=class,T=string,K=0=disorder,V=0=50.0,K=1=gene,V=1=60.0"
+      }
+    }
+  }, {
+    "properties_of" : "edges:default",
+    "applies_to" : 1318171,
+    "view" : 1318171,
+    "properties" : {
+      "EDGE_CURVED" : "true",
+      "EDGE_LABEL_COLOR" : "#000000",
+      "EDGE_LABEL_FONT_FACE" : "Dialog,plain,10",
+      "EDGE_LABEL_FONT_SIZE" : "10",
+      "EDGE_LABEL_TRANSPARENCY" : "255",
+      "EDGE_LABEL_WIDTH" : "200.0",
+      "EDGE_LINE_TYPE" : "SOLID",
+      "EDGE_PAINT" : "#323232",
+      "EDGE_SELECTED" : "false",
+      "EDGE_SELECTED_PAINT" : "#FF0000",
+      "EDGE_SOURCE_ARROW_SELECTED_PAINT" : "#FFFF00",
+      "EDGE_SOURCE_ARROW_SHAPE" : "NONE",
+      "EDGE_SOURCE_ARROW_UNSELECTED_PAINT" : "#999999",
+      "EDGE_STROKE_SELECTED_PAINT" : "#FF0000",
+      "EDGE_STROKE_UNSELECTED_PAINT" : "#999999",
+      "EDGE_TARGET_ARROW_SELECTED_PAINT" : "#FFFF00",
+      "EDGE_TARGET_ARROW_SHAPE" : "DELTA",
+      "EDGE_TARGET_ARROW_UNSELECTED_PAINT" : "#999999",
+      "EDGE_TRANSPARENCY" : "255",
+      "EDGE_UNSELECTED_PAINT" : "#404040",
+      "EDGE_VISIBLE" : "true",
+      "EDGE_WIDTH" : "2.0"
+    },
+    "dependencies" : {
+      "arrowColorMatchesEdge" : "false"
+    }
+  } ]
+}, {
+  "subNetworks" : [ {
+    "@id" : 1315305,
+    "nodes" : [ 1315349, 1315348, 1315347, 1315346, 1315345, 1315344, 1315343, 1315342, 1315341, 1315340, 1315339, 1315338, 1315337, 1315336, 1315335, 1315334, 1315333, 1315332, 1315331, 1315330, 1315329, 1315328, 1315327, 1315326, 1315325, 1315324, 1315323, 1315322, 1315321, 1315320, 1315319, 1315318, 1315317, 1315316, 1315315 ],
+    "edges" : [ 1315410, 1315409, 1315408, 1315407, 1315406, 1315405, 1315404, 1315403, 1315402, 1315401, 1315400, 1315399, 1315398, 1315397, 1315396, 1315395, 1315394, 1315393, 1315392, 1315391, 1315390, 1315389, 1315388, 1315387, 1315386, 1315385, 1315384, 1315383, 1315382, 1315381, 1315380, 1315379, 1315378, 1315377, 1315376, 1315375, 1315374, 1315373, 1315372, 1315371, 1315370, 1315369, 1315368, 1315367, 1315366, 1315365, 1315364, 1315363, 1315362, 1315361, 1315360, 1315359, 1315358, 1315357, 1315356, 1315355, 1315354, 1315353, 1315352, 1315351, 1315350 ]
+  } ]
+}, {
+  "cyViews" : [ {
+    "@id" : 1318171,
+    "s" : 1315305
+  } ]
+}, {
+  "networkRelations" : [ {
+    "p" : 1315305,
+    "c" : 1318171,
+    "r" : "view",
+    "name" : "ADHD_similar_disorders.txt view"
+  }, {
+    "p" : 1315279,
+    "c" : 1315305,
+    "r" : "subnetwork",
+    "name" : "ADHD_similar_disorders.txt"
+  } ]
+}, {
+  "metaData" : [ {
+    "consistencyGroup" : 1,
+    "elementCount" : 4,
+    "name" : "networkAttributes",
+    "properties" : [ ],
+    "version" : "1.0"
+  }, {
+    "consistencyGroup" : 1,
+    "elementCount" : 1,
+    "name" : "hiddenAttributes",
+    "properties" : [ ],
+    "version" : "1.0"
+  }, {
+    "consistencyGroup" : 1,
+    "elementCount" : 105,
+    "name" : "nodeAttributes",
+    "properties" : [ ],
+    "version" : "1.0"
+  }, {
+    "consistencyGroup" : 1,
+    "elementCount" : 244,
+    "name" : "edgeAttributes",
+    "properties" : [ ],
+    "version" : "1.0"
+  }, {
+    "consistencyGroup" : 1,
+    "elementCount" : 35,
+    "name" : "cartesianLayout",
+    "properties" : [ ],
+    "version" : "1.0"
+  }, {
+    "consistencyGroup" : 1,
+    "elementCount" : 3,
+    "name" : "visualProperties",
+    "properties" : [ ],
+    "version" : "1.0"
+  }, {
+    "consistencyGroup" : 1,
+    "elementCount" : 1,
+    "name" : "subNetworks",
+    "properties" : [ ],
+    "version" : "1.0"
+  }, {
+    "consistencyGroup" : 1,
+    "elementCount" : 1,
+    "name" : "cyViews",
+    "properties" : [ ],
+    "version" : "1.0"
+  }, {
+    "consistencyGroup" : 1,
+    "elementCount" : 0,
+    "name" : "cyGroups",
+    "properties" : [ ],
+    "version" : "1.0"
+  }, {
+    "consistencyGroup" : 1,
+    "elementCount" : 2,
+    "name" : "networkRelations",
+    "properties" : [ ],
+    "version" : "1.0"
+  } ]
+}, {
+  "status" : [ {
+    "error" : "",
+    "success" : true
+  } ]
+} ]
